@@ -1,0 +1,70 @@
+ID: 1
+Telefono: 67890
+Direccion correo: luisezequiel@gmail.com
+Pais: Costa Rica
+Ciudad: San Jose
+Codigo Postal: 10122
+--------------------
+ID: 2
+Telefono: 898900
+Direccion correo: jamileth@gmail
+Pais: Nicaragua
+Ciudad: Managua
+Codigo Postal: 89450
+--------------------
+ID: 1
+Telefono: 67890
+Direccion correo: luisezequiel@gmail.com
+Pais: Costa Rica
+Ciudad: San Jose
+Codigo Postal: 10122
+--------------------
+ID: 2
+Telefono: 898900
+Direccion correo: jamileth@gmail
+Pais: Nicaragua
+Ciudad: Managua
+Codigo Postal: 89450
+--------------------
+ID: 1
+Telefono: 67890
+Direccion correo: luisezequiel@gmail.com
+Pais: Costa Rica
+Ciudad: San Jose
+Codigo Postal: 10122
+--------------------
+ID: 2
+Telefono: 898900
+Direccion correo: jamileth@gmail
+Pais: Nicaragua
+Ciudad: Managua
+Codigo Postal: 89450
+--------------------
+ID: 3
+Telefono: 789065
+Direccion correo: Aaron@gmail.com
+Pais: Colombia
+Ciudad: Medellin
+Codigo Postal: 967845
+--------------------
+ID: 1
+Telefono: 67890
+Direccion correo: luisezequiel@gmail.com
+Pais: Costa Rica
+Ciudad: San Jose
+Codigo Postal: 10122
+--------------------
+ID: 2
+Telefono: 898900
+Direccion correo: jamileth@gmail
+Pais: Nicaragua
+Ciudad: Managua
+Codigo Postal: 89450
+--------------------
+ID: 3
+Telefono: 789065
+Direccion correo: Aaron@gmail.com
+Pais: Colombia
+Ciudad: Medellin
+Codigo Postal: 967845
+--------------------

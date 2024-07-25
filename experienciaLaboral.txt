@@ -1,0 +1,70 @@
+ID: 1
+Nombre Empresa: Patitos
+Puesto: programador
+Fecha inicio: 12/10/12
+Fecha fin: 15/06/24
+Descripcion: programar una base
+--------------------
+ID: 2
+Nombre Empresa: Patitos
+Puesto: cocinera
+Fecha inicio: 12/09/19
+Fecha fin: 15/07/16
+Descripcion: cocinar productos
+--------------------
+ID: 1
+Nombre Empresa: Patitos
+Puesto: programador
+Fecha inicio: 12/10/12
+Fecha fin: 15/06/24
+Descripcion: programar una base
+--------------------
+ID: 2
+Nombre Empresa: Patitos
+Puesto: cocinera
+Fecha inicio: 12/09/19
+Fecha fin: 15/07/16
+Descripcion: cocinar productos
+--------------------
+ID: 1
+Nombre Empresa: Patitos
+Puesto: programador
+Fecha inicio: 12/10/12
+Fecha fin: 15/06/24
+Descripcion: programar una base
+--------------------
+ID: 2
+Nombre Empresa: Patitos
+Puesto: cocinera
+Fecha inicio: 12/09/19
+Fecha fin: 15/07/16
+Descripcion: cocinar productos
+--------------------
+ID: 3
+Nombre Empresa: Patitos
+Puesto: front
+Fecha inicio: 12/10/20
+Fecha fin: 15/07/24
+Descripcion: desarrollar paginas
+--------------------
+ID: 1
+Nombre Empresa: Patitos
+Puesto: programador
+Fecha inicio: 12/10/12
+Fecha fin: 15/06/24
+Descripcion: programar una base
+--------------------
+ID: 2
+Nombre Empresa: Patitos
+Puesto: cocinera
+Fecha inicio: 12/09/19
+Fecha fin: 15/07/16
+Descripcion: cocinar productos
+--------------------
+ID: 3
+Nombre Empresa: Patitos
+Puesto: front
+Fecha inicio: 12/10/20
+Fecha fin: 15/07/24
+Descripcion: desarrollar paginas
+--------------------

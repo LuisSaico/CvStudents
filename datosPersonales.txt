@@ -1,0 +1,100 @@
+ID: 1
+Cedula: 118134
+Nombre: Luis
+Direccion: Los Guido,San Jose
+Correo electronico: luisezequiel@gmail.com
+Fecha de Nacimiento: 02/05/2001
+Nacionalidad: costarricense
+Estado Civil: soltero
+Objetivo profesional: desarollador
+--------------------
+ID: 2
+Cedula: 1184566
+Nombre: Jamileth
+Direccion: Desamparados
+Correo electronico: Jamileth@gmail.com
+Fecha de Nacimiento: 26/11/1980
+Nacionalidad: nicaraguense
+Estado Civil: casada
+Objetivo profesional: salonera
+--------------------
+ID: 1
+Cedula: 118134
+Nombre: Luis
+Direccion: Los Guido,San Jose
+Correo electronico: luisezequiel@gmail.com
+Fecha de Nacimiento: 02/05/2001
+Nacionalidad: costarricense
+Estado Civil: soltero
+Objetivo profesional: desarollador
+--------------------
+ID: 2
+Cedula: 1184566
+Nombre: Jamileth
+Direccion: Desamparados
+Correo electronico: Jamileth@gmail.com
+Fecha de Nacimiento: 26/11/1980
+Nacionalidad: nicaraguense
+Estado Civil: casada
+Objetivo profesional: salonera
+--------------------
+ID: 1
+Cedula: 118134
+Nombre: Luis
+Direccion: Los Guido,San Jose
+Correo electronico: luisezequiel@gmail.com
+Fecha de Nacimiento: 02/05/2001
+Nacionalidad: costarricense
+Estado Civil: soltero
+Objetivo profesional: desarollador
+--------------------
+ID: 2
+Cedula: 1184566
+Nombre: Jamileth
+Direccion: Desamparados
+Correo electronico: Jamileth@gmail.com
+Fecha de Nacimiento: 26/11/1980
+Nacionalidad: nicaraguense
+Estado Civil: casada
+Objetivo profesional: salonera
+--------------------
+ID: 3
+Cedula: 11848902
+Nombre: Aaron
+Direccion: limon
+Correo electronico: Aaron@gmail.com
+Fecha de Nacimiento: 26/03/1990
+Nacionalidad: colombiano
+Estado Civil: soltero
+Objetivo profesional: desarollador web
+--------------------
+ID: 1
+Cedula: 118134
+Nombre: Luis
+Direccion: Los Guido,San Jose
+Correo electronico: luisezequiel@gmail.com
+Fecha de Nacimiento: 02/05/2001
+Nacionalidad: costarricense
+Estado Civil: soltero
+Objetivo profesional: desarollador
+--------------------
+ID: 2
+Cedula: 1184566
+Nombre: Jamileth
+Direccion: Desamparados
+Correo electronico: Jamileth@gmail.com
+Fecha de Nacimiento: 26/11/1980
+Nacionalidad: nicaraguense
+Estado Civil: casada
+Objetivo profesional: salonera
+--------------------
+ID: 3
+Cedula: 11848902
+Nombre: Aaron
+Direccion: limon
+Correo electronico: Aaron@gmail.com
+Fecha de Nacimiento: 26/03/1990
+Nacionalidad: colombiano
+Estado Civil: soltero
+Objetivo profesional: desarollador web
+--------------------
